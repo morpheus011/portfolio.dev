@@ -9,3 +9,11 @@
     align-items: center;
     justify-content: center;
 }
+
+@mixin bd-radius($value) {
+    border-radius: $value;
+}
+
+@mixin font($value) {
+    font-size: $value;
+}

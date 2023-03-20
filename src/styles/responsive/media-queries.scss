@@ -1,0 +1,9 @@
+@media screen and (max-width:350px) {
+    #Navbar{
+        transform: translate(-50%,-25%);
+        >.items{
+            font-size: 2.2rem;
+        }
+    }
+    
+}
