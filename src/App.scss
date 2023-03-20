@@ -1,2 +1,9 @@
 // Stylesheet of all Components inside Style directory
+@use './styles/utills/' as *;
 @use './styles/' as *;
+
+.App{
+    background-color: $green-color;
+    position: relative;
+    padding:3rem 5rem;
+}
