@@ -17,3 +17,11 @@
 @mixin font($value) {
     font-size: $value;
 }
+
+@mixin btn{
+}
+
+@mixin anchor{
+    padding: 2rem;
+    font-size: 3rem;
+}
