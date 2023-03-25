@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="items">
         <div className="tooltip">Home</div>
         <div className="icon">
-          <a href="#Home">
+          <a href="#Header">
             <BiHomeHeart />
           </a>
         </div>
